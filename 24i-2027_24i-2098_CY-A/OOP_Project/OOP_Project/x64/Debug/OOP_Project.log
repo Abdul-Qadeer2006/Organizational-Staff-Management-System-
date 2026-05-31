@@ -1,0 +1,38 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(22,13): warning C4566: character represented by universal-character-name '\U0001F4DD' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(27,17): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(31,17): warning C4566: character represented by universal-character-name '\U0001F501' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(34,17): warning C4566: character represented by universal-character-name '\u26A0' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(155,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(164,21): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(164,21): warning C4244:         with
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(164,21): warning C4244:         [
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(164,21): warning C4244:             _Rep=__int64
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(164,21): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(743,21): warning C4566: character represented by universal-character-name '\U0001F4CB' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(752,21): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(686,21): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(686,21): warning C4244:         with
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(686,21): warning C4244:         [
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(686,21): warning C4244:             _Rep=__int64
+D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\osim.h(686,21): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+  OOP_Project.vcxproj -> D:\SEMESTER 2\OOP\24i-2027_24i-2098_CY-A\OOP_Project\x64\Debug\OOP_Project.exe
